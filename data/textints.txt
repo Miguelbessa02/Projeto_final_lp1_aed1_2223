@@ -1,0 +1,12 @@
+Key publica: 8
+Key privada: 16
+Key run length: 1116
+Key publica: 18
+Key privada: 36
+Key run length: 1316
+Key publica: 251
+Key privada: 5522
+Key run length: 2522
+Key publica: 2013
+Key privada: 555588
+Key run length: 4528
